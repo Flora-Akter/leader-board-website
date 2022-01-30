@@ -2,17 +2,49 @@ body{
    background-color: #F3F1FF;
 }
 .navbar-nav{
-    margin-left: 1000px;
+    margin-left: 900px;
 }
+
 .navbar img{
     width: 40px;
 }
 h3{
     color: #562EFF;
-    margin-top: 50px;
-    text-align: center;
+    margin-top: 20px;
     font-weight: 700;
 }
 .player img{
   width: 56px ;
 }
+.top-player{
+    width: 870PX;
+    height: 679px;
+}
+.blog img{
+    width: 177px;
+}
+section{
+    width: 870px ;
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin: 60px;
+    
+    
+}
+.card{
+    border: none;
+    
+}
+.card img{
+    width: 224px;
+}
+.card-a{
+  text-decoration: none;
+  color: #ED6B4F;
+  
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
