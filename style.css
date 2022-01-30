@@ -1,0 +1,18 @@
+body{
+   background-color: #F3F1FF;
+}
+.navbar-nav{
+    margin-left: 1000px;
+}
+.navbar img{
+    width: 40px;
+}
+h3{
+    color: #562EFF;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+.player img{
+  width: 56px ;
+}
