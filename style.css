@@ -33,18 +33,17 @@ section{
 }
 .card{
     border: none;
+    box-shadow: 2px gray;
     
 }
 .card img{
     width: 224px;
+    text-align: center;
+    
 }
 .card-a{
   text-decoration: none;
   color: #ED6B4F;
   
-}
-.card-footer{
-    border: none;
-    background-color: white;
 }
 
