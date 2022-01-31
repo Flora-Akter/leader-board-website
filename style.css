@@ -2,7 +2,7 @@ body{
    background-color: #F3F1FF;
 }
 .navbar-nav{
-    margin-left: 900px;
+    margin-left: 1000px;
 }
 
 .navbar img{
@@ -35,18 +35,16 @@ section{
     
 }
 .card{
-    border: none;
+    border: 1px solid rgb(248, 245, 245);
      
 }
 .card-vitore{
-    padding-left: 40px;
+    padding-left: 10px;
     padding-top: 30px;
-   margin-left: 20px;
+   margin-left: 5px;
 }
 .card img{
-    width: 224px;
-    
-    
+    width: 224px;  
 }
 .card-a{
   text-decoration: none;
