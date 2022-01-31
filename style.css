@@ -29,19 +29,21 @@ h3{
 section{
     width: 870px ;
     background-color: #FFFFFF;
-    padding: 20px;
+    padding: 15px;
     margin: 60px;
     
     
 }
 .card{
-    border: 1px solid rgb(248, 245, 245);
-     
+    border: 1px solid rgb(247, 243, 243);
+    width: 280px;
+    border-radius: 14px;
+    padding-right: 50px;
 }
+
 .card-vitore{
-    padding-left: 10px;
-    padding-top: 30px;
-   margin-left: 5px;
+    padding-left: 30px;
+    padding-top: 10px;
 }
 .card img{
     width: 224px;  
@@ -61,10 +63,15 @@ section{
     text-align: center;
     margin-top: 20px;
     color: #A2A2A2;
+    
 }
 .card-footer{
     border: none;
     background-color: white;
+    
+}
+.star{
+    border-radius: 10px;
 }
 .card-footer button{
     border: none;
