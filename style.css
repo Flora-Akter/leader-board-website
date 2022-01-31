@@ -23,6 +23,9 @@ h3{
 .blog img{
     width: 177px;
 }
+.top-bloger a{
+    text-decoration: none;
+}
 section{
     width: 870px ;
     background-color: #FFFFFF;
@@ -33,17 +36,45 @@ section{
 }
 .card{
     border: none;
-    box-shadow: 2px gray;
-    
+     
+}
+.card-vitore{
+    padding-left: 40px;
+    padding-top: 30px;
+   margin-left: 20px;
 }
 .card img{
     width: 224px;
-    text-align: center;
+    
     
 }
 .card-a{
   text-decoration: none;
-  color: #ED6B4F;
+  color: #e9856e;
   
+}
+.card-footer img{
+    width: 20px;
+    height: 20px;
+    
+
+}
+.point{
+    text-align: center;
+    margin-top: 20px;
+    color: #A2A2A2;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer button{
+    border: none;
+    color: #FF4A60;
+    border-radius: 15px;
+    background-color: rgb(243, 203, 209);
+}
+footer{
+    text-align: center;
 }
 
